@@ -14,6 +14,8 @@ import org.junit.Test;
  *
  * How many n-digit positive integers exist which are also an nth power?
  *
+ * Using long is NOT sufficient, BigInteger does the trick.
+ *
  * ANSWER = 49
  */
 class Euler63B {
